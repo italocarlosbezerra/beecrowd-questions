@@ -11,7 +11,7 @@ Repositório para armazenar questões passadas durante o módulo de JavaScript.
 - 1059 [OK]
 - 1065 a 1079 [OK]
 - 1095 a 1098 [OK]
-- 1113 a 1117
-- 1134 a 1145
-- 1153
-- 1589
+- 1113 a 1117 [OK]
+- 1134 a 1145 [OK]
+- 1153 [OK]
+- 1589 [OK]
