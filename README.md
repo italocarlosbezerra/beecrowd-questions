@@ -2,7 +2,7 @@
 
 Repositório para armazenar questões passadas durante o módulo de JavaScript.
 
-- 1000 a 1035 [NÃO BOTEI TODOS AQUI DENTRO, MAS VOU ATUALIZAR]
+- 1000 a 1035 [OK]
 - 1038 [OK]
 - 1044 [OK]
 - 1046 [OK]
