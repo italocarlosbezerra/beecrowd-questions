@@ -5,7 +5,7 @@ let arrayNumbers = lines.map((item) => parseInt(item));
 let count = 0;
 
 for (let i = 0; i < arrayNumbers.length; i++) {
-  if (Math.abs(i % 2) === 0) {
+  if (Math.abs(arrayNumbers[i] % 2) === 0) {
     count++;
   }
 }
